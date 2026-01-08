@@ -1,4 +1,4 @@
-name: 构建小米平板5 hyperOS-kernel-next
+name: 构建小米平板5 hyperOS-kernel
 
 on:
   workflow_dispatch:
